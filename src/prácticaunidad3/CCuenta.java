@@ -8,6 +8,7 @@ package prácticaunidad3;
 /**
  *
  * @author ED05
+ * @version 1.1
  */
 public class CCuenta {
 
